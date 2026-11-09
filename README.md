@@ -85,17 +85,19 @@ These are team/project-level results reported in the capstone thesis. They must 
 ## 5. Evidence
 ## Chrome Extension Interface
 
-![XTECT Chrome Extension Interface](evidence/extension-interface/Chrome Extension Interface & Pop-up Notification.png)
+![XTECT Chrome Extension Interface](evidence/extension-interface/xtect-extension-interface.png)
 
 **Figure 1. Chrome Extension Interface.**
+
 The XTECT Chrome extension presents website risk classifications, numerical threat scores, and security indicators to help users recognize potentially malicious webpages. 
 It provides contextual warnings and recommendations based on the detected indicators.
 
 ## Multi-Layer Threat Detection
 
-![XTECT Multi-Layer Threat Detection](evidence/threat-assessment/Multi-Layer Threat Detection and Explainable Risk Assessment.png)
+![XTECT Multi-Layer Threat Detection](evidence/threat-assessment/xtect-multi-layer-detection.png)
 
 **Figure 2. Multi-Layer Threat Detection and Explainable Risk Assessment.**
+
 XTECT combines URL and threat-intelligence analysis, DOM-based webpage inspection, and whitelist verification. 
 These detection signals contribute to an ensemble-based risk assessment, with machine-learning calibration and explainable scoring presented in the report.
 
