@@ -141,4 +141,4 @@ The technical descriptions and project-level results in this case study are base
 
 *An Ensemble-Based Chrome Extension for Multi-Layer Threat Detection to Mitigate Phishing Threats in an Insurance Organization.*
 
-The public portfolio version intentionally anonymizes the organization. The complete thesis should not be uploaded publicly unless the team and relevant organization have authorized its release.
+This public portfolio intentionally anonymizes the organization.
