@@ -84,13 +84,26 @@ These are team/project-level results reported in the capstone thesis. They must 
 
 ## 5. Evidence
 
-The included screenshots are sanitized portfolio illustrations:
+5. System Screenshots and Evidence
+The following screenshots illustrate the XTECT browser extension, its multi-layer threat assessment, and the administrative security dashboard. All screenshots have been sanitized for portfolio presentation.
 
-- `evidence/extension-interface/` — extension popup and expanded score breakdown.
-- `evidence/threat-assessment/` — report examples showing URL intelligence, page content analysis, whitelist/impostor checks, and score calculation.
-- `evidence/dashboard-monitoring/` — sanitized security dashboard overview illustrating monitoring and reporting functions.
+5.1 Chrome Extension Interface
+The extension presents a website's threat classification, risk score, and recommended action to help users understand the assessment.
 
-The displayed examples include safe classifications. They demonstrate the interface and explanation of results; they are not phishing-detection success examples.
+5.2 Explainable Threat Score Breakdown
+The expanded score breakdown displays URL and page behavior signals, the base score, machine-learning modifier, whitelist factor, and final threat score.
+
+5.3 URL and Threat Intelligence Analysis
+This report section illustrates URL-related checks, including Google Safe Browsing, Phishing.Database, and HTTPS encryption status.
+
+5.4 Page Content Analysis
+The report presents webpage inspection results covering password field security, form destinations, right-click accessibility, hidden elements, and urgency-related language.
+
+5.5 Whitelist and Threat Score Calculation
+This section presents whitelist status, impostor domain detection, score adjustments, final threat score, and the resulting recommendation.
+
+5.6 Administrative Security Dashboard
+The dashboard provides an overview of agent activity, pending reports, threat trends, threat-level distribution, and security monitoring functions.
 
 ## 6. Learning outcomes
 
