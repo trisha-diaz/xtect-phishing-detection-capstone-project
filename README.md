@@ -68,9 +68,9 @@ The thesis reports the following results for the overall project:
 
 | Iteration | Reported outcome |
 |---|---|
-| Iteration 1 | 250 of 257 items passed (97.28%); seven failures were documented |
-| Iteration 2 | Retesting was conducted after the development team addressed the seven initial findings |
-| Iteration 3 | 273 of 273 executed test cases passed (100%) |
+| Iteration 1 | 250 of 257 items passed (97.28%); seven failures were documented. |
+| Iteration 2 | Retesting followed the development team's corrections to the initial findings. |
+| Iteration 3 | 273 of 273 executed test cases passed (100%). |
 
 The thesis also reports the following Iteration 3 solution-validation measurements:
 
@@ -87,10 +87,10 @@ These are team/project-level results reported in the capstone thesis. They must 
 
 ![XTECT Chrome Extension Interface](evidence/extension-interface/xtect-extension-interface.png)
 
-**Figure 1. Chrome Extension Interface.**
+**Figure 1. XTECT Chrome Extension Interface and Security Notification.**
 
-The XTECT Chrome extension presents website risk classifications, numerical threat scores, and security indicators to help users recognize potentially malicious webpages. 
-It provides contextual warnings and recommendations based on the detected indicators.
+The figure presents examples of the extension's user-facing interface _across different website risk classifications_. 
+It illustrates the numerical threat scores, detected security indicators, and contextual warning notification displayed to users.
 
 ## Multi-Layer Threat Detection
 
@@ -98,8 +98,8 @@ It provides contextual warnings and recommendations based on the detected indica
 
 **Figure 2. Multi-Layer Threat Detection and Explainable Risk Assessment.**
 
-XTECT combines URL and threat-intelligence analysis, DOM-based webpage inspection, and whitelist verification. 
-These detection signals contribute to an ensemble-based risk assessment, with machine-learning calibration and explainable scoring presented in the report.
+The figure illustrates how URL and threat-intelligence analysis, DOM-based webpage inspection, and whitelist verification contribute to the ensemble-based risk assessment. 
+It also presents the base score calculation, machine-learning calibration, whitelist adjustment, and resulting threat score.
 
 ## 6. Learning outcomes
 
@@ -131,12 +131,9 @@ xtect-phishing-detection-case-study/
 │   └── CONTRIBUTIONS.md
 └── evidence/
     ├── extension-interface/
-    │   ├── xtect-extension-1.jpg
-    │   └── xtect-extension-2.jpg
+    │   └── xtect-extension-interface.png
     └── threat-assessment/
-        ├── xtect-report-3.jpg
-        ├── xtect-report-4.jpg
-        └── xtect-report-5.jpg
+        └── xtect-multi-layer-detection.png
 ```
 
 ## 9. Academic source
