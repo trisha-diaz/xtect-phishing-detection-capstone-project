@@ -83,28 +83,47 @@ The thesis also reports the following Iteration 3 solution-validation measuremen
 These are team/project-level results reported in the capstone thesis. They must not be presented as measurements produced independently by me or as proof of universal detection effectiveness. Refer to the thesis for test scope, methodology, acceptance criteria, and limitations.
 
 ## 5. Evidence
+## 5. System Screenshots and Evidence
 
-5. System Screenshots and Evidence
 The following screenshots illustrate the XTECT browser extension, its multi-layer threat assessment, and the administrative security dashboard. All screenshots have been sanitized for portfolio presentation.
 
-5.1 Chrome Extension Interface
+### 5.1 Chrome Extension Interface
+
 The extension presents a website's threat classification, risk score, and recommended action to help users understand the assessment.
 
-5.2 Explainable Threat Score Breakdown
+![XTECT Chrome Extension Interface](evidence/extension-interface/xtect-extension-1.jpg)
+
+### 5.2 Explainable Threat Score Breakdown
+
 The expanded score breakdown displays URL and page behavior signals, the base score, machine-learning modifier, whitelist factor, and final threat score.
 
-5.3 URL and Threat Intelligence Analysis
+![XTECT Threat Score Breakdown](evidence/extension-interface/xtect-extension-2.jpg)
+
+### 5.3 URL and Threat Intelligence Analysis
+
 This report section illustrates URL-related checks, including Google Safe Browsing, Phishing.Database, and HTTPS encryption status.
 
-5.4 Page Content Analysis
+![XTECT URL Intelligence Analysis](evidence/threat-assessment/xtect-report-3.jpg)
+
+### 5.4 Page Content Analysis
+
 The report presents webpage inspection results covering password field security, form destinations, right-click accessibility, hidden elements, and urgency-related language.
 
-5.5 Whitelist and Threat Score Calculation
+![XTECT Page Content Analysis](evidence/threat-assessment/xtect-report-4.jpg)
+
+### 5.5 Whitelist and Threat Score Calculation
+
 This section presents whitelist status, impostor domain detection, score adjustments, final threat score, and the resulting recommendation.
 
-5.6 Administrative Security Dashboard
+![XTECT Whitelist and Score Calculation](evidence/threat-assessment/xtect-report-5.jpg)
+
+### 5.6 Administrative Security Dashboard
+
 The dashboard provides an overview of agent activity, pending reports, threat trends, threat-level distribution, and security monitoring functions.
 
+![XTECT Administrative Security Dashboard](evidence/dashboard-monitoring/xtect-security-dashboard.jpg)
+
+**Evidence limitation:** The safe-result screenshots demonstrate the interface and reporting capabilities. They should not be interpreted as proof of successful phishing detection.
 ## 6. Learning outcomes
 
 Through my participation, I gained experience in:
