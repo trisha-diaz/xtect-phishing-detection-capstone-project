@@ -125,7 +125,7 @@ This case study is a portfolio summary, not a claim of independent implementatio
 ## 8. Repository contents
 
 ```text
-xtect-phishing-detection-case-study/
+xtect-phishing-detection-capstone-project/
 ├── README.md
 ├── docs/
 │   └── CONTRIBUTIONS.md
